@@ -1,0 +1,1 @@
+# react-next-svgr-bug
